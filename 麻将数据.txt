@@ -1,0 +1,10 @@
+﻿data:
+手牌         array[18]
+本次打出的牌 array[18]
+自己出的牌   array[18]
+自己碰杠的牌 array[18]
+下家出的牌   array[18]
+下家碰杠的牌 array[18]
+上家出的牌   array[18]
+上家碰杠的牌 array[18]
+label:本局得分情况
